@@ -16,6 +16,10 @@ Telegram-бот для отслеживания цен на Ozon и Wildberries.
 - `/target` — установить целевую цену
 - `/help` — справка
 
+- ## Контакты
+- Telegram: [@KANEKANEDIT](https://t.me/KANEKANEDIT)
+- GitHub: [kurdukovplay-ops](https://github.com/kurdukovplay-ops)
+
 ## Технологии
 - Python 3
 - pyTelegramBotAPI
